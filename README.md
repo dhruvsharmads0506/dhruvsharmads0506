@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @dhruvsharmads0506<br><br>👀 I’m interested in exploring how machines learn, make decisions, and how technology is shaping the future.<br><br>🎓 I’m currently pursuing B.Tech in Computer Science (AI) with Honours in Cybersecurity.<br><br>🌱 I’m continuously learning about Cybersecurity, Artificial Intelligence, and secure system design.<br><br>⚡ Fun fact: This project was created during late-night coding sessions fueled by coffee ☕ and lo-fi beats 🎧
+👋 Hi, I’m @Dhruv Sharma<br><br>👀 I’m interested in exploring how machines learn, make decisions, and how technology is shaping the future.<br><br>🎓 I’m currently pursuing B.Tech in Computer Science (AI) with Honours in Cybersecurity.<br><br>🌱 I’m continuously learning about Cybersecurity, Artificial Intelligence, and secure system design.<br><br>⚡ Fun fact: This project was created during late-night coding sessions fueled by coffee ☕ and lo-fi beats 🎧
 
 
 ## 🌐 Socials:
