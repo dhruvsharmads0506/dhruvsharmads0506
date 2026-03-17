@@ -12,8 +12,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dhruvsharmads0506&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsharmads0506&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhruvsharmads0506&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhruvsharmads0506&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dhruvsharmads0506&label=Profile%20views&color=blue&style=flat"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
